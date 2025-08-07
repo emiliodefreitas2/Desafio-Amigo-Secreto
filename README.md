@@ -54,12 +54,6 @@ Se você deseja contribuir com este projeto, sinta-se à vontade para:
 4.  Enviar para a branch original (`git push origin feature/sua-feature`).
 5.  Abrir um Pull Request.
 
-## Licença
 
-Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
-
-## Autor
-
-Manus AI
 
 
